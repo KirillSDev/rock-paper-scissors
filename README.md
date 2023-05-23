@@ -14,7 +14,7 @@
     nvm install v18.12.1
 ```
 
-<li>  Install dependencies using yarn: </li>
+<li>  Install dependencies using npm: </li>
 
 ```bash
     npm install
