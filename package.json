@@ -1,0 +1,22 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "node --experimental-modules dist/index.js",
+    "start": "npm run build && node --experimental-modules dist/index.js"
+  },
+  "author": "KirillSDev",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "console-table-printer": "^2.11.1",
+    "table": "^6.8.1"
+  }
+}
