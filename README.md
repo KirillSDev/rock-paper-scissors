@@ -17,7 +17,7 @@
 <li>  Install dependencies using yarn: </li>
 
 ```bash
-    npm i
+    npm install
 ```
 
 <li> Start the project: </li>
